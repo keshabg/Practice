@@ -1,1 +1,2 @@
 Adding Some content as well. Test continues.
+This content added from master side using browser.
